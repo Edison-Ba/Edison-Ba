@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBp?x-oss-process=image/format,png)](https://github.com/Edison-Ba/github-readme-stats?theme=dark)
+
 <!--
 **Edison-Ba/Edison-Ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
