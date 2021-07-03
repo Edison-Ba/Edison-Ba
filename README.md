@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+[My Luogu](https://www.luogu.com.cn/user/355844)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edison-Ba&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
